@@ -28,6 +28,9 @@ Style native form controls without writing custom CSS. The `accent-` utility cha
 
 <!-- Range slider with blue accent -->
 <input type="range" class="accent-blue-500" />
+
+<!-- Common uses -->
+text-[min(10w,10px)]
 ```
 
 **Benefits:**
