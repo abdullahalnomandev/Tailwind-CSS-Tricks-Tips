@@ -30,7 +30,7 @@ Style native form controls without writing custom CSS. The `accent-` utility cha
 <input type="range" class="accent-blue-500" />
 
 <!-- Common uses -->
-text-[min(10w,10px)]
+<h1 class="text-[clamp(2rem,10vw,70px)]">Hello</h1>
 ```
 
 **Benefits:**
